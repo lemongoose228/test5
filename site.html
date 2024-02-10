@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Фотограф</title>
+    <link rel="stylesheet" href="site.css">
+</head>
+<body>
+    <header>
+      <h1 class="mainText">Lemon_goose photo</h1>
+      <nav>
+          <ul>
+              <li><a href="site.html">Главная</a></li>
+              <li><a href="reviews.html">Отзывы</a></li>
+          </ul>
+      </nav>
+    </header>
+
+    <main>
+      <div class="card2">
+        <div class="photo">
+          <img src="4.jpg" alt="Photo">
+        </div> 
+        
+        <div class="review">
+          <div class="caption">
+            Lemon goose фото 
+          </div>
+          Привет! Меня зовут Катя, мне 19 лет, и я фотографирую в Иркутске. Моя цель - запечатлеть моменты, эмоции и красоту вокруг нас. Я специализируюсь на портретной съемке, семейной и концептуальной фотографии. Я стараюсь делать каждую фотосессию интересной, неповторимой и запоминающейся. Если вы ищете профессионального фотографа в Иркутске, то вы попали по адресу. Добро пожаловать в мир красивых и ярких фотографий!
+        </div>
+      </div>
+       
+    </main>
+
+    <footer>
+        &copy; 2024 lem-ababa. Все права не защищены.
+    </footer>
+</body>
+</html>
